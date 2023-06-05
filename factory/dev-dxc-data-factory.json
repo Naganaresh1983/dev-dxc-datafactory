@@ -1,0 +1,9 @@
+{
+	"name": "dev-dxc-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1170a9d3-9ee7-4c61-923d-6641f5cb8d84",
+		"tenantId": "c1478190-e106-4c7f-9549-2d968de5dfb6"
+	}
+}
